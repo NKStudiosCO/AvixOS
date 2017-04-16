@@ -1,0 +1,14 @@
+5 cls
+10 print "system basic example"
+11 print
+12 print "   1) End program
+13 print "
+14 print "   2) Say HELLO!
+15 print
+16 input a
+17 if a = 1 then end
+18 if a = 2 then
+19 print
+20 print "    HELLO!"
+21 print
+22 end if
