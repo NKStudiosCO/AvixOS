@@ -5,7 +5,7 @@ you want to see a picture click on the file SYSPIC.PNG to see how it looks.
 *Do not copy SETUP.EXE onto the floppy, that is to install it as a Virtual System on Windows Vista - 10
 
 # WINDOWS
-Using SETUP.EXE, you can install Avix OS 2.0 - Windows Edition onto your Windows Vista - 10 computer as a Virtual System. 
+Using SETUP.EXE, you can install Avix OS 486 v2.0 - Windows Edition onto your Windows Vista - 10 computer as a Virtual System. 
 
 Requirements
 =============
