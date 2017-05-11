@@ -15,3 +15,6 @@ CPU Speed - 1 GHz
 
 RAM - 1 GB
 
+# MS-DOS
+
+If you are using MS-DOS, and you want to just put it on your hard-drive, at the DOS prompt type "install" to run the install program and let Avix 486 v2.0 install on your computer.
