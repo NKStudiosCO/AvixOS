@@ -9,5 +9,9 @@ Using SETUP.EXE, you can install Avix OS 2.0 - Windows Edition onto your Windows
 
 Requirements
 =============
-Windows - Vista, 7, 8, 10 / CPU Speed - 1 GHz / RAM - 1 GB
+Windows - Vista, 7, 8, 10
+
+CPU Speed - 1 GHz
+
+RAM - 1 GB
 
